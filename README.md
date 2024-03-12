@@ -5,9 +5,9 @@ An antivirus program is a type of software designed to detect, prevent, and remo
 
 Executing Antivirus.exe File:
                 
-                * Download the Antivirus.exe File and execute it.
-                * Navigate or Enter any Malicious File Path.
-                * Input the Signature or Keywords of the Malicious File that can be Present.
+    * Download the Antivirus.exe File and execute it.
+    * Navigate or Enter any Malicious File Path.
+    * Input the Signature or Keywords of the Malicious File that can be Present.
 
 
 Features:
