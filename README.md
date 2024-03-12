@@ -13,5 +13,5 @@ Executing Antivirus.exe File:
 Features:
     
     * It contains a manual based Scanning. 
-    * It's a very simple EXE File.
+    * It's very simple EXE File.
                               
